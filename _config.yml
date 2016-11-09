@@ -1,12 +1,12 @@
 # Site settings
-title: edit_config.yml
-email: edit_config.yml
+title: title_config.yml
+email: email_config.yml
 description: > # this means to ignore newlines until "baseurl:"
-  edit_config.yml
+  description_config.yml
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://lailahxuer.github.io/" # the base hostname & protocol for your site
+twitter_username: twitter_username_config.yml
+github_username:  github_username.yml
 
 # Build settings
 markdown: kramdown
