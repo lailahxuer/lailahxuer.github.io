@@ -2,7 +2,7 @@
 layout: post
 title:  "Markdown Example"
 date:   2016-11-10 10:00:00
-categories: private
+categories: temp
 ---
 
 `code span`
