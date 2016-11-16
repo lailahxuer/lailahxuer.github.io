@@ -1,12 +1,11 @@
 # Site settings
-title: title_config.yml
-email: email_config.yml
+title: 
+email: lailah@foxmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  description_config.yml
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://lailahxuer.github.io/" # the base hostname & protocol for your site
-twitter_username: twitter_username_config.yml
-github_username:  github_username.yml
+twitter_username: 
+github_username: lailahxuer
 
 # Build settings
 markdown: kramdown

@@ -5,14 +5,6 @@ date:   2016-11-10 10:00:00
 categories: temp
 ---
 
-`code span`
-
-    public class Main {
-        public static void main(String[] args) {
-            System.out.println("this is a markdown code block.");
-        }
-    }
-
 {% highlight java %}
 // highlighting using Liquid tag
 public class Main {
